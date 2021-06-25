@@ -1,23 +1,37 @@
 # Project Proposal
 
-Pod Members: **Add Pod Members Names**
+Pod Members: **Leonel Rivera-Castro, Ashani Jewell, Henry Mu**
 
 ## Problem Statement
 
-Insert your groups problem statement and target audience.
+Problem statement: There's no place to chat about movies and also buy/rent them at the same time. 
+Target audience: Everyone
 
 ## Description
 
-What is the main purpose of your project? What are the key features your site has to offer its users? How will your targeted audience use your website?
+A shared space for discussing movies and finding new movies to watch. Users will have the ability to search for movies, see what's trending, and chat about their favorite movies. 
 
 ## Expected Features List
 
-Add a list of your groups's brainstormed features list
+Required features:
+- Chat board with different subforums based off movie genre
+- Login/logout 
+- Search for movies
+- Shopping cart for movies to buy/rent
+- Movie grid to display the movies
+- Each movie will have a description, runtime, release date, ratings
+
+Stretch features:
+- Google maps to figure out closest movie theater
+- Users can create their own subforums
 
 ## Related Work
 
-What similar apps and websites? How will your project stand out from these other websites?
+- Rotten Tomatoes
+- IMDB
+- Our project is a cultivation of many different sites: it's not only a forum but also a marketplace. Our users can browse their favorite movies while having discussions about movies.
 
 ## Open Questions
 
-What questions do you still have? What topics do you need to research more for your project?
+- Our biggest question is about how much Google API costs/if it'll work with React
+- How to combine the forum portion and marketplace section
