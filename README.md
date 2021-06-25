@@ -1,21 +1,17 @@
-📝 `NOTE` Use this template repo to initialize the contents of your group's capstone repo project. As you work on your assignment over the course of the week, update the appropriate repo deliverables. All project planning should be included in the planning directory. (🚫 Remove this paragraph before submitting your assignment.)
-
 # SITE Capstone Project
 
-SITE Course Year: **20__**
+SITE Course Year: **2021**
 
-Cohort: **Add Company Sponsor Name**
+Cohort: **Workday**
 
-Team Member Names:**Insert Team Member Names**
+Team Member Names:**Leonel Rivera-Castro, Ashani Jewell, Henry Mu**
 
-Mentors Names: **Insert Professional Mentor Names**
+Mentors Names: **Zeno Hao, Shirley Kabir, Todd O'Bryan**
 
 ## Project Overview
 
-Add a quick summary of what your project theme and objectives are. 
+A website/app that provides users with a marketplace and a forum to discuss and buy/rent movies.
 
 Deployment Website: **Add Link to Deployed Project**
 
 ### Open-source libraries used
-
-- Add any links to open-source libraries used in your project.
