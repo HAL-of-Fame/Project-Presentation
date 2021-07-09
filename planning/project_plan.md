@@ -175,4 +175,6 @@ Threads (List of Threads)
 |  Read  |    GET    | Get list of threads |     Everyone    |
 | Delete |   DELETE  |   Delete a thread   | Logged in users |
 | Update |    PUT    |   Update a thread   | Logged in Users |
+
+
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
