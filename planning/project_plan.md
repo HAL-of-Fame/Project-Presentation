@@ -56,7 +56,61 @@ List all the pages and screens in the app. Include wireframes for at least 3 of 
 
 ## Data Model
 
+User
+| Column name |     Type    | Description |
+|:-----------:|:-----------:|:-----------:|
+|      id     |   integer   | Primary key |
+|   username  | Text UNIQUE |   Username  |
+|    email    |     text    |    Email    |
+|   password  |     text    |   Password  |
+|  firstName  |     text    |  First name |
+|   lastName  |     text    |  Last name  |
 
+User Favorites
+| Column name |   Type  |        Description       |
+|:-----------:|:-------:|:------------------------:|
+|   users_id  | integer | References the users(id) |
+|   movie_id  | integer |  References the movie_id |
+
+Orders
+| Column name |    Type   |        Description       |
+|:-----------:|:---------:|:------------------------:|
+|      id     |  integer  |        Primary key       |
+| customer_id |  integer  | References the users(id) |
+|  created_at | timestamp |   Gets the created time  |
+
+Order detail
+|            Column name           |   Type  |              Description             |
+|:--------------------------------:|:-------:|:------------------------------------:|
+| Primary Key (order_id, movie_id) | integer | References the order_id and movie_id |
+|             order_id             | integer |         References orders(id)        |
+|             movie_id             | integer |         References movie(id)         |
+|               price              | integer |              Default 12              |
+
+Forum
+| Column name |   Type  | Description |
+|:-----------:|:-------:|:-----------:|
+|      id     | integer | Primary key |
+|     name    |   text  |  Forum name |
+
+Thread
+| Column name |    Type    |             Description            |
+|:-----------:|:----------:|:----------------------------------:|
+|      id     |   integer  |             Primary key            |
+|    title    |    text    |      Caption of the subthread      |
+|   user_id   |   integer  |         References user(id)        |
+|  created_at | timestamp  | Timestamp for when it’s created at |
+|   forum_id  |   integer  |      References the forum(id)      |
+
+
+Post
+| Column name |    Type    |             Description            |
+|:-----------:|:----------:|:----------------------------------:|
+|      id     |   integer  |             Primary key            |
+|     text    |    text    |      Caption of the subthread      |
+|   user_id   |   integer  |         References user(id)        |
+|  created_at | timestamp  | Timestamp for when it’s created at |
+|  thread_id  |   integer  |      References the thread(id)     |
 
 ## Endpoints
 
