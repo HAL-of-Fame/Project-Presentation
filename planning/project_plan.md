@@ -198,104 +198,105 @@ Threads (List of Threads)
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
 
-Sprint Plan:
-Phase 1/Sprint 1:
-Homepage front end
-Navbar - Ashani 
-Search bar - Leo
-Login page - Ashani
-Register page - Ashani
-Trending Movies - Leo
+**Sprint Plan:**
 
-Homepage Backend
-Login Page - Henry 
-Register Page - Henry 
-JSON Web token - Henry 
-Trending movie API call - Henry Leo
-Create SQL tables - Henry Leo
+**Phase 1/Sprint 1:**
 
-Search page Frontend - Leo, Ashani
-Search bar
-List of movies (cards)
-NavBar
+- Homepage front end
+    - Navbar 
+    - Search bar 
+    - Login page 
+    - Register page 
+    - Trending Movies 
 
-Search page Backend - Leo
-Create/find the movie API for all movies searched 
+- Homepage Backend
+    - Login Page 
+    - Register Page 
+    - JSON Web token  
+    - Trending movie API call 
+    - Create SQL tables 
 
-Individual movie page front end
-Movie poster - Henry
-Movie description - Henry
-Button for purchasing movie (create an order) - Ashani
-Rate a movie -Ashani
+- Search page Frontend 
+    - Search bar
+    - List of movies (cards)
+    - NavBar
 
-Individual move page back end 
-Movie API call - Henry
-Rate a movie -Ashani
+- Search page Backend 
+    - Create/find the movie API for all movies searched 
 
-Phase 1/Sprint 2:
-Cart Backend 
-Orders
-Create an order
-Delete an order
-Checkout (orders list with prices added up)
+- Individual movie page front end
+    - Movie poster 
+    - Movie description 
+    - Button for purchasing movie (create an order) 
+    - Rate a movie 
 
-Cart Frontend
-Orders list
-Delete an order
-Checkout (order list with prices added up)
-No tax
+- Individual move page back end 
+    - Movie API call 
+    - Rate a movie 
 
-Page for all the genres frontend 
-List of forums
+**Phase 1/Sprint 2:**
+- Cart Backend 
+    - Orders
+    - Create an order
+    - Delete an order
+    - Checkout (orders list with prices added up)
 
-Page for all the genres backend
-API call for list of forums
+- Cart Frontend
+    - Orders list
+    - Delete an order
+    - Checkout (order list with prices added up)
+    - No tax
 
-Phase 2/Sprint 3:
+- Page for all the genres frontend 
+    - List of forums
 
-Page for all the subforums frontend
-List of threads 
+- Page for all the genres backend
+    - API call for list of forums
 
-Page for all the subforums backend 
-API call for list of threads in that subforum
+**Phase 2/Sprint 3:**
 
-Page for threads frontend (list of posts)
-List of posts
-Create a post
-Update a post
-Delete a post
+- Page for all the subforums frontend
+    - List of threads 
 
-Page for threads backend (list of posts)
-API call to get individual thread with posts
-Create a post
+- Page for all the subforums backend 
+    - API call for list of threads in that subforum
 
-Phase 2/ Sprint 4:
-HomePage Forum Bar Frontend
-Two threads (hardcorded) 
- Button to all threads (page)
-Recent posts (of the user)
+- Page for threads frontend (list of posts)
+    - List of posts
+    - Create a post
+    - Update a post
+    - Delete a post
 
-HomePage Forum Bar Backend
-Button to all threads (page)
+- Page for threads backend (list of posts)
+    - API call to get individual thread with posts
+    - Create a post
 
-Individual movie page add threads front end 
-Individual movie page add threads back end 
+**Phase 2/ Sprint 4:**
+- HomePage Forum Bar Frontend
+    - Two threads (hardcorded) 
+    - Button to all threads (page)
+    - Recent posts (of the user)
 
-Phase 3/ Sprint 5: (stretch features)
-Sidebar (homepage) FrontEnd
-Home
-Genre
-Trending
-New Releases
-Favorites
+- HomePage Forum Bar Backend
+    - Button to all threads (page)
 
-Sidebar (homepage) Backend
-Home
-Genre
-Trending
-New Releases
-Favorites
-Google Maps API
-Movie Trailer Pop-Up
-Sub-sub-forums
+- Individual movie page add threads front end 
+- Individual movie page add threads back end 
 
+**Phase 3/ Sprint 5: (stretch features)**
+- Sidebar (homepage) FrontEnd
+    -  Home
+    - Genre
+    - Trending
+    - New Releases
+    - Favorites
+
+- Sidebar (homepage) Backend
+    - Home
+    - Genre
+    - Trending
+    - New Releases
+    - Favorites
+    - Google Maps API
+    - Movie Trailer Pop-Up
+    - Sub-sub-forums
