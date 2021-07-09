@@ -43,16 +43,35 @@ Movie reviewer
 ## Pages/Screens
 
 List all the pages and screens in the app. Include wireframes for at least 3 of them.
-- Home page
-- Cart
-- Forum
-- Thread
-- Make a post
-- Search movies
-- Favorite movies
-- Individual movie page
-- Login
-- Register
+- Home page:
+![image](https://user-images.githubusercontent.com/80354834/125115576-83382b00-e0b9-11eb-8710-4724e1077e90.png)
+
+- Cart:
+![image](https://user-images.githubusercontent.com/80354834/125115721-b7135080-e0b9-11eb-8d04-08c590212cd5.png)
+
+- Forum:
+![image](https://user-images.githubusercontent.com/80354834/125115799-d316f200-e0b9-11eb-9b54-5a7ec21b93a6.png)
+
+- Thread:
+![image](https://user-images.githubusercontent.com/80354834/125115832-e0cc7780-e0b9-11eb-93ff-9dddaf716d86.png)
+
+- Make a post:
+![image](https://user-images.githubusercontent.com/80354834/125115938-fe014600-e0b9-11eb-81dd-34918881c123.png)
+
+- Search movies:
+![image](https://user-images.githubusercontent.com/80354834/125115997-0fe2e900-e0ba-11eb-91fd-1bf28e9a8a1a.png)
+
+- Favorite movies:
+![image](https://user-images.githubusercontent.com/80354834/125116048-212bf580-e0ba-11eb-9990-1e0814f98d4b.png)
+
+- Individual movie page:
+![image](https://user-images.githubusercontent.com/80354834/125116125-3bfe6a00-e0ba-11eb-8d8f-07c8a43b274e.png)
+
+- Login:
+![image](https://user-images.githubusercontent.com/80354834/125116173-4fa9d080-e0ba-11eb-850f-8d8ae40e9dc0.png)
+
+- Register:
+![image](https://user-images.githubusercontent.com/80354834/125116221-651efa80-e0ba-11eb-89d8-467734a5cf28.png)
 
 ## Data Model
 
