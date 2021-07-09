@@ -115,5 +115,64 @@ Post
 ## Endpoints
 
 List the API endpoints you will need to implement.
+Login 
+|  CRUD  | HTTP Verb | Description |   User Stories  |
+|:------:|:---------:|:-----------:|:---------------:|
+| Create |    POST   |    Login    | Logged in users |
+|        |           |             |                 |
+|        |           |             |                 |
 
+Post
+|  CRUD  | HTTP Verb |  Description  | User Stories |
+|:------:|:---------:|:-------------:|:------------:|
+| Create |    POST   |   Add a post  |  1, 3, 7, 9  |
+|  Read  |    GET    | Read the post |      All     |
+| Delete |   DELETE  | Delete a post |  1, 3, 7, 9  |
+
+Register
+|  CRUD  | HTTP Verb |  Description  | User Stories |
+|:------:|:---------:|:-------------:|:------------:|
+| Create |    POST   | Create a user |      All     |
+| Delete |   DELETE  | Delete a user |      All     |
+
+Movie Ratings
+|  CRUD  | HTTP Verb |   Description   | User Stories |
+|:------:|:---------:|:---------------:|:------------:|
+| Create |    POST   |  Create ratings |  1, 3, 7, 9  |
+|  Read  |    GET    |   Read ratings  |      All     |
+| Update |    PUT    | Update a Rating |     7, 9     |
+| Delete |   DELETE  |  Delete ratings |  1, 3, 7, 9  |
+
+Order
+|  CRUD  | HTTP Verb |     Description    |   User Stories  |
+|:------:|:---------:|:------------------:|:---------------:|
+| Create |    POST   |   Create an order  | Logged in users |
+|  Read  |    GET    | Get list of orders | Logged in users |
+| Delete |   DELETE  |   Delete an order  | Logged in users |
+
+Home "/"
+|  CRUD  | HTTP Verb |     Description    |   User Stories  |
+|:------:|:---------:|:------------------:|:---------------:|
+|  Read  |    GET    | Get list of movies | Everyone        |
+
+All Forums (List of Genres)
+|  CRUD  | HTTP Verb |     Description    |   User Stories  |
+|:------:|:---------:|:------------------:|:---------------:|
+|  Read  |    GET    | Get list of Forums | All Users       |
+
+Subforums (List of Threads)
+|  CRUD  | HTTP Verb |      Description      |   User Stories  |
+|:------:|:---------:|:---------------------:|:---------------:|
+| Create |    POST   |   Create an subforum  | Logged in users |
+|  Read  |    GET    | Get list of subforums |     Everyone    |
+| Delete |   DELETE  |   Delete a subforum   | Logged in users |
+| Update |    PUT    |   Update a Subforum   | Logged in Users |
+
+Threads (List of Threads)
+|  CRUD  | HTTP Verb |     Description     |   User Stories  |
+|:------:|:---------:|:-------------------:|:---------------:|
+| Create |    POST   |   Create an thread  | Logged in users |
+|  Read  |    GET    | Get list of threads |     Everyone    |
+| Delete |   DELETE  |   Delete a thread   | Logged in users |
+| Update |    PUT    |   Update a thread   | Logged in Users |
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
