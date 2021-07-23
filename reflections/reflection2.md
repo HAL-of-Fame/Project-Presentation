@@ -6,7 +6,7 @@ Pod Members: **Henry Mu, Leonel Rivera-Castro, Ashani Jewell**
 
 * Name at least one successful thing this week.
 
-This week, we were tasked with many challenging things which included the implementation of the cart, merch page, buying of the movies and starting the post in each genre. After diligently working throughout this week, we successfully complete the cart functionality, which included buying both the merch and movies and the post functionality in each genre page.
+This week, we were tasked with many challenging things which included the implementation of the cart, merch page, buying of the movies and starting the post in each genre. After diligently working throughout this week, we successfully complete the cart functionality, which included buying both the merch and movies and the post functionality in each genre page. The genre page will show all the created posts associated with that genre. 
 
 * What were some challenges you and/or your group faced this week?
 
