@@ -6,11 +6,11 @@ Pod Members: **Henry Mu, Leonel Rivera-Castro, Ashani Jewell**
 
 * Name at least one successful thing this week.
 
-  We finished everything we planned for our sprints. The cart and order are now working and posts and comments work under their corresponding genre forum. 
+  We finished everything we planned for our sprints. The cart and order are now working and posts and comments work under their corresponding genre forum. We also   started using Material UI to clean up our UX. We also decided on a color scheme. The Sidebar, NavBar, and Merch Page were remade in Material UI. We also used Material UI to make the posts and comments in the forums. 
 
 * What were some challenges you and/or your group faced this week?
 
-  Connecting the movie API with our backend API was challenging as well as switching over to Material UI which introduced a lot of bugs in our system. 
+  Connecting the movie API with our backend API was challenging (inserting the movie into our database) as well as switching over to Material UI which introduced a lot of bugs in our system. It was also difficult connecting the frontend and backend for the comments. 
 
 * Did you finish all of your tasks in your sprint plan for this week? If you did not finish all of the planned tasks what were some factors that contributed to this?  (i.e over planned, did not know how to implement certain features, miscommunication from the team, had to pivot from original plans, etc.)
 
