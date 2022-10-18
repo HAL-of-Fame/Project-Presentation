@@ -12,6 +12,4 @@ Mentors Names: **Zeno Hao, Shirley Kabir, Todd O'Bryan**
 
 A website/app that provides users with a marketplace and a forum to discuss and buy/rent movies.
 
-Deployment Website: **Add Link to Deployed Project**
-
-### Open-source libraries used
+Deployment Website: **https://moviecentral.surge.sh/**
